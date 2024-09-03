@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "274850903639",
+    "firebase_url": "https://ayurvedabot-default-rtdb.firebaseio.com",
+    "project_id": "ayurvedabot",
+    "storage_bucket": "ayurvedabot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274850903639:android:20f607a2ee8f2f6f251512",
+        "android_client_info": {
+          "package_name": "com.example.ayurvedabot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9MheXdfsoJZbGNIal_TiXsEMg8ylvaLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274850903639:android:91d1fcb568be9e7b251512",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9MheXdfsoJZbGNIal_TiXsEMg8ylvaLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

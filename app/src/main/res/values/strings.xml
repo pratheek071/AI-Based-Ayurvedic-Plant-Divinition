@@ -1,0 +1,1173 @@
+<resources>
+    <string name="app_name">Ayur Sangathi</string>
+    <string name="click_here_for_more_information"><a href="https://www.easyayurveda.com/">Click here for more Information</a></string>
+
+
+    <string name="AloeVera_for_firstaid">1.Procedure:\n
+Aloe vera gel - extract gel from aloe vera leaf, apply directly to burns and wounds for healing.\n
+2.Importance:\n
+Aloe vera has soothing and healing properties, making it effective for treating burns, cuts, and wounds.\n
+3.Benefits:\n
+*Burn relief: Aloe vera provides immediate relief from burns by cooling the skin and promoting healing.\n
+*Wound healing: It accelerates the healing process of wounds by reducing inflammation and promoting tissue regeneration.\n
+4.Best for: Burns, cuts, wounds.</string>
+
+    <string name="Ginger">1. Procedure:\n
+Ginger poultice - crush ginger, apply to the forehead for headache relief.\n
+2. Importance:\n
+Ginger has anti-inflammatory and analgesic properties, making it effective for relieving headaches.\n
+3. Benefits:\n
+* Headache relief: Ginger reduces headache intensity and duration by inhibiting inflammation and pain pathways.\n
+* Nausea relief: It also helps alleviate nausea and vomiting associated with headaches.\n
+4. Best for: Headaches, nausea.</string>
+
+    <string name="Cinnamon">1. Procedure:\n
+Cinnamon tea - steep cinnamon sticks in hot water, drink for menstrual cramp relief.\n
+2. Importance:\n
+Cinnamon has anti-inflammatory and antispasmodic properties, making it effective for relieving menstrual cramps.\n
+3. Benefits:\n
+* Menstrual cramp relief: Cinnamon reduces uterine muscle contractions and inflammation, alleviating menstrual pain.\n
+* Blood flow regulation: It helps regulate blood flow during menstruation, reducing excessive bleeding.\n
+4. Best for: Menstrual cramps, menstrual pain.</string>
+
+    <string name="Clove">1. Procedure:\n
+Clove oil - dilute clove oil with a carrier oil, apply to toothache for pain relief.\n
+2. Importance:\n
+Clove has analgesic and antimicrobial properties, making it effective for relieving toothaches and dental pain.\n
+3. Benefits:\n
+* Toothache relief: Clove oil numbs the affected area and reduces dental pain associated with toothaches and gum infections.\n
+* Antibacterial action: It also helps kill bacteria in the mouth, preventing further infection.\n
+4. Best for: Toothaches, gum infections.</string>
+
+    <string name="Garlic">1. Procedure:\n
+Garlic compress - crush garlic, apply to insect bites for itch relief.\n
+2. Importance:\n
+Garlic has antiseptic and anti-inflammatory properties, making it effective for relieving itching and inflammation caused by insect bites.\n
+3. Benefits:\n
+* Itch relief: Garlic reduces itching and swelling associated with insect bites, providing immediate relief.\n
+* Antimicrobial action: It also helps prevent infection and promote healing of the affected area.\n
+4. Best for: Insect bites, itching.</string>
+
+    <string name="Eucalyptus">1. Procedure:\n
+Eucalyptus steam - add eucalyptus oil to hot water, inhale steam for congestion relief.\n
+2. Importance:\n
+Eucalyptus has decongestant and expectorant properties, making it effective for relieving respiratory congestion and discomfort.\n
+3. Benefits:\n
+* Congestion relief: Inhaling eucalyptus steam helps loosen mucus, clear nasal passages, and relieve congestion.\n
+* Respiratory support: It also has antimicrobial properties that can help fight respiratory infections.\n
+4. Best for: Nasal congestion, respiratory infections.</string>
+
+    <string name="Peppermint">1. Procedure:\n
+Peppermint oil - dilute peppermint oil, apply to temples for headache relief.\n
+2. Importance:\n
+Peppermint has analgesic and soothing properties, making it effective for relieving headaches and migraines.\n
+3. Benefits:\n
+* Headache relief: Peppermint oil applied to temples or forehead helps relax muscles, alleviate tension, and reduce headache severity.\n
+* Stress reduction: Its refreshing aroma can also help reduce stress and promote relaxation.\n
+4. Best for: Headaches, stress relief.</string>
+
+    <string name="Licorice">1. Procedure:\n
+Licorice tea - steep licorice root in hot water, drink for sore throat relief.\n
+2. Importance:\n
+Licorice has demulcent and anti-inflammatory properties, making it effective for soothing sore throats and relieving throat irritation.\n
+3. Benefits:\n
+* Sore throat relief: Licorice tea coats the throat, reducing irritation and inflammation, and provides relief from soreness and pain.\n
+* Cough suppression: It also has expectorant properties that can help loosen mucus and ease coughing.\n
+4. Best for: Sore throat, cough.</string>
+
+    <string name="Lemongrass">1. Procedure:\n
+Lemongrass bath - steep lemongrass in hot water, add to bath for relaxation.\n
+2. Importance:\n
+Lemongrass has calming and soothing properties, making it effective for promoting relaxation and reducing stress.\n
+3. Benefits:\n
+* Relaxation: Adding lemongrass to a bath helps relax muscles, reduce tension, and relieve stress and anxiety.\n
+* Aromatherapy benefits: Its refreshing scent can also uplift mood and promote mental clarity.\n
+4. Best for: Relaxation, stress relief.</string>
+
+    <string name="Fenugreek">1. Procedure:\n
+Fenugreek poultice - soak fenugreek seeds in water, apply to boils for faster healing.\n
+2. Importance:\n
+Fenugreek has antibacterial and anti-inflammatory properties, making it effective for treating boils and promoting wound healing.\n
+3. Benefits:\n
+* Boil relief: Fenugreek poultice applied to boils helps draw out toxins, reduce inflammation, and promote healing.\n
+* Wound healing: It also helps prevent infection and speeds up the healing process of wounds and cuts.\n
+4. Best for: Boils, wound healing.</string>
+
+    <string name="Basil">1. Procedure:\n
+Basil oil - infuse basil leaves in oil, apply to insect bites for relief.\n
+2. Importance:\n
+Basil has anti-inflammatory and antimicrobial properties, making it effective for relieving itching and swelling caused by insect bites.\n
+3. Benefits:\n
+* Itch relief: Basil oil soothes itching and reduces inflammation associated with insect bites, providing immediate relief.\n
+* Antimicrobial action: It also helps prevent infection and promote healing of the affected area.\n
+4. Best for: Insect bites, itching.</string>
+
+    <string name="Chamomile">1. Procedure:\n
+Chamomile compress - steep chamomile tea bags, apply to eyes for reducing puffiness.\n
+2. Importance:\n
+Chamomile has anti-inflammatory and soothing properties, making it effective for reducing puffiness and swelling around the eyes.\n
+3. Benefits:\n
+* Puffiness reduction: Chamomile compress applied to the eyes helps constrict blood vessels, reduce puffiness, and soothe tired eyes.\n
+* Relaxation: Its calming aroma promotes relaxation and can help alleviate stress and tension.\n
+4. Best for: Eye puffiness, relaxation.</string>
+
+    <string name="Calendula">1. Procedure:\n
+Calendula salve - infuse calendula flowers in oil, use as a natural antiseptic.\n
+2. Importance:\n
+Calendula has antiseptic and wound-healing properties, making it effective for treating cuts, scrapes, and minor wounds.\n
+3. Benefits:\n
+* Wound healing: Calendula salve applied to cuts and scrapes helps prevent infection, reduce inflammation, and promote faster healing.\n
+* Skin protection: It also forms a protective barrier over the wound, preventing further irritation and promoting skin regeneration.\n
+4. Best for: Cuts, scrapes, minor wounds.</string>
+
+    <string name="Comfrey">1. Procedure:\n
+Comfrey poultice - crush comfrey leaves, apply to sprains for pain relief.\n
+2. Importance:\n
+Comfrey has anti-inflammatory and analgesic properties, making it effective for relieving pain and inflammation associated with sprains and strains.\n
+3. Benefits:\n
+* Pain relief: Comfrey poultice applied to sprains helps reduce swelling, alleviate pain, and promote faster healing of injured tissues.\n
+* Joint support: It also supports joint mobility and flexibility, aiding in the recovery process.\n
+4. Best for: Sprains, strains.</string>
+
+    <string name="Plantain">1. Procedure:\n
+Plantain poultice - crush plantain leaves, apply to cuts and scrapes for healing.\n
+2. Importance:\n
+Plantain has antimicrobial and wound-healing properties, making it effective for treating cuts, scrapes, and minor wounds.\n
+3. Benefits:\n
+* Wound healing: Plantain poultice applied to cuts and scrapes helps prevent infection, reduce inflammation, and promote faster healing.\n
+* Skin protection: It also forms a protective barrier over the wound, preventing further irritation and promoting skin regeneration.\n
+4. Best for: Cuts, scrapes, minor wounds.</string>
+
+    <string name="Yarrow">1. Procedure:\n
+Yarrow tea - steep yarrow flowers in hot water, drink for fever relief.\n
+2. Importance:\n
+Yarrow has febrifuge and diaphoretic properties, making it effective for reducing fever and promoting sweating to lower body temperature.\n
+3. Benefits:\n
+* Fever reduction: Yarrow tea helps induce sweating, which aids in lowering body temperature and relieving fever symptoms.\n
+* Immune support: It also has antimicrobial properties that can help fight off infections and boost immune function.\n
+4. Best for: Fever, immune support.</string>
+
+    <string name="TeaTree">1. Procedure:\n
+Tea tree oil - dilute tea tree oil, apply to acne for antibacterial effects.\n
+2. Importance:\n
+Tea tree has antibacterial and anti-inflammatory properties, making it effective for treating acne and preventing further breakouts.\n
+3. Benefits:\n
+* Acne treatment: Tea tree oil applied to acne helps kill acne-causing bacteria, reduce inflammation, and promote faster healing of blemishes.\n
+* Skin protection: It also helps regulate oil production and unclog pores, preventing future acne breakouts.\n
+4. Best for: Acne, skin blemishes.</string>
+
+    <string name="CayennePepper">1. Procedure:\n
+Cayenne pepper paste - mix cayenne pepper with water, apply to arthritis for pain relief.\n
+2. Importance:\n
+Cayenne pepper has analgesic properties and contains capsaicin, which helps reduce pain and inflammation associated with arthritis.\n
+3. Benefits:\n
+* Arthritis relief: Cayenne pepper paste applied topically helps block pain signals, reduce inflammation, and alleviate joint pain and stiffness.\n
+* Improved circulation: It also promotes blood flow to the affected area, aiding in the delivery of nutrients and removal of toxins.\n
+4. Best for: Arthritis pain relief, joint stiffness.</string>
+
+    <string name="Ginger_for_firstaid">1. Procedure:\n
+Ginger compress - steep ginger slices, apply to chest for cough relief.\n
+2. Importance:\n
+Ginger has antitussive and expectorant properties, making it effective for relieving cough and promoting expectoration of mucus.\n
+3. Benefits:\n
+* Cough relief: Ginger compress applied to the chest helps soothe coughing, reduce throat irritation, and promote respiratory comfort.\n
+* Mucus expulsion: It also helps loosen phlegm and facilitate its removal from the airways, aiding in cough suppression.\n
+4. Best for: Cough relief, respiratory comfort.</string>
+
+    <string name="Onion">1. Procedure:\n
+Onion poultice - crush onion, apply to chest for congestion relief.\n
+2. Importance:\n
+Onion has expectorant and antimicrobial properties, making it effective for relieving congestion and promoting respiratory health.\n
+3. Benefits:\n
+* Congestion relief: Onion poultice applied to the chest helps break up mucus, reduce inflammation, and alleviate congestion in the respiratory tract.\n
+* Antimicrobial action: It also helps kill bacteria and viruses, preventing respiratory infections and promoting faster recovery.\n
+4. Best for: Chest congestion, respiratory infections.</string>
+
+    <string name="Horsetail">1. Procedure:\n
+Horsetail tea - steep horsetail herb in hot water, drink for urinary tract health.\n
+2. Importance:\n
+Horsetail has diuretic and anti-inflammatory properties, making it effective for promoting urinary tract health and relieving urinary issues.\n
+3. Benefits:\n
+* Urinary tract support: Horsetail tea helps increase urine production, flush out toxins, and prevent urinary tract infections and kidney stones.\n
+* Anti-inflammatory action: It also reduces inflammation in the urinary tract, alleviating pain and discomfort associated with urinary issues.\n
+4. Best for: Urinary tract health, kidney stones prevention.</string>
+
+    <string name="Tulsi_for_firstaid">1. Procedure:\n
+Tulsi syrup - steep tulsi leaves in sugar syrup, strain, and use as a sweetener in beverages.\n
+2. Importance:\n
+Tulsi has antimicrobial and immunomodulatory properties, making it effective for treating various ailments and boosting overall health.\n
+3. Benefits:\n
+* Immune support: Tulsi strengthens the immune system, helping the body fight off infections and diseases.\n
+* Respiratory relief: It also helps alleviate respiratory issues such as coughs, colds, and asthma.\n
+4. Best for: Immune support, respiratory health.</string>
+
+    <string name="Neem_for_firstaid">1. Procedure:\n
+Neem leaf capsules - grind dried neem leaves into powder, encapsulate for consumption.\n
+2. Importance:\n
+Neem is known for its potent antibacterial, antifungal, and antiviral properties, making it a valuable medicinal plant.\n
+3. Benefits:\n
+* Skin care: Neem helps treat various skin conditions like acne, eczema, and psoriasis due to its antibacterial properties.\n
+* Oral health: It also promotes oral hygiene by preventing dental issues like cavities and gum disease.\n
+4. Best for: Skin care, oral health.</string>
+
+    <string name="Trikatu">1. Procedure:\n
+Trikatu churna - mix equal parts of dried ginger, black pepper, and long pepper powders, consume with honey or warm water.\n
+2. Importance:\n
+Trikatu is a traditional Ayurvedic formulation known for its digestive and respiratory benefits.\n
+3. Benefits:\n
+* Digestive aid: Trikatu enhances digestion, relieves indigestion, and promotes appetite.\n
+* Respiratory support: It also helps clear congestion, alleviate coughs, and improve breathing.\n
+4. Best for: Digestive health, respiratory support.</string>
+
+    <string name="Hibiscus">1. Procedure:\n
+Hibiscus hair oil - infuse hibiscus flowers in coconut oil, use for hair care and scalp health.\n
+2. Importance:\n
+Hibiscus is rich in antioxidants and vitamins, making it beneficial for both internal and external health.\n
+3. Benefits:\n
+* Hair care: Hibiscus oil strengthens hair, promotes growth, and prevents dandruff and scalp irritation.\n
+* Cardiovascular health: Consuming hibiscus tea may help lower blood pressure and cholesterol levels.\n
+4. Best for: Hair care, cardiovascular health.</string>
+
+    <string name="Mint">1. Procedure:\n
+Mint tea - steep fresh mint leaves in hot water, drink for digestive relief and fresh breath.\n
+2. Importance:\n
+Mint is well-known for its refreshing flavor and various medicinal properties, particularly related to digestion and oral health.\n
+3. Benefits:\n
+* Digestive aid: Mint helps relieve indigestion, gas, bloating, and stomach cramps.\n
+* Oral hygiene: It freshens breath, kills bacteria in the mouth, and reduces oral inflammation.\n
+4. Best for: Digestive relief, oral health.</string>
+
+    <string name="BlackPepper">1. Procedure:\n
+Black pepper poultice - crush black peppercorns, mix with warm water, apply to sore muscles for pain relief.\n
+2. Importance:\n
+Black pepper contains piperine, which has anti-inflammatory and analgesic properties, making it useful for relieving pain and inflammation.\n
+3. Benefits:\n
+* Pain relief: Applying a black pepper poultice to sore muscles helps reduce pain, swelling, and stiffness, promoting faster recovery.\n
+* Digestive aid: Consuming black pepper stimulates digestion, relieves gas, and improves nutrient absorption in the body.\n
+4. Best for: Pain relief, digestive health.</string>
+
+    //health
+
+    <string name="Ashwagandha">
+1.Importance:\n
+Ashwagandha, also known as Withania somnifera or Indian ginseng, is a revered herb in Ayurveda for its adaptogenic properties.\n
+2.Health Benefits:\n
+*Stress reduction: Ashwagandha helps the body adapt to stress and promotes relaxation.\n
+*Energy enhancement: It boosts energy levels and reduces fatigue.\n
+*Immune support: Ashwagandha strengthens the immune system, making the body more resilient to infections.\n
+3.Recipes/Procedures:\n
+*Ashwagandha smoothie: Blend ashwagandha powder with bananas, spinach, almond milk, and honey.\n
+*Ashwagandha tea: Steep ashwagandha root powder in hot water, strain, and drink as a soothing tea.\n
+4.Best for: Stress reduction, energy enhancement, immune support.</string>
+    <string name="Amla">
+        1.Importance:\n
+Amla is revered in Ayurveda for its high Vitamin C content, which boosts immunity and aids in digestion.\n
+2.Health Benefits:\n
+*Boosts immunity: Amla strengthens the immune system, making the body more resilient against infections like colds and flu.\n
+*Digestive aid: Amla promotes digestion and helps in the absorption of nutrients, reducing digestive issues like indigestion and constipation.\n
+3.Recipes/Procedures:\n
+*Amla Juice: Blend amla with water and honey. Drink daily for a Vitamin C boost.\n
+*Amla Pickle: Marinate chopped amla with salt, turmeric, and mustard oil. Consume as a condiment with meals.\n
+4.Best for: Boosting immunity, improving digestion, preventing colds and flu.</string>
+    <string name="Turmeric">1.Importance:\n
+Turmeric contains curcumin, a powerful antioxidant and anti-inflammatory compound, making it highly beneficial for overall health.\n
+2.Health Benefits:\n
+*Anti-inflammatory: Turmeric helps reduce inflammation in the body, alleviating symptoms of arthritis and other inflammatory conditions.\n
+*Antioxidant properties: Turmeric scavenges free radicals, protecting cells from damage and lowering the risk of chronic diseases.\n
+Wound healing: Turmeric accelerates wound healing due to its antiseptic and antimicrobial properties.\n
+3.Recipes/Procedures:\n
+*Turmeric Paste: Mix turmeric powder with water to form a paste. Apply topically to wounds for faster healing.\n
+*Golden Milk: Mix turmeric powder with warm milk and honey. Drink before bedtime for better sleep and overall health.\n
+4.Best for: Reducing inflammation, antioxidant support, wound healing.</string>
+    <string name="Brahmi">  1.Importance:\n
+Brahmi is known for its memory-enhancing properties and its ability to reduce stress and anxiety.\n
+2.Health Benefits:\n
+*Memory enhancement: Brahmi improves cognitive function and enhances memory retention.\n
+*Stress reduction: It has calming effects on the mind, reducing anxiety and promoting mental clarity.\n
+*Brain health: Brahmi supports overall brain health and may help prevent age-related cognitive decline.\n
+3.Recipes/Procedures:\n
+*Brahmi Tea: Steep Brahmi leaves in hot water for a soothing tea that promotes mental focus.\n
+*Brahmi Oil: Infuse Brahmi leaves in coconut oil and massage onto the scalp to stimulate hair growth and improve hair health.\n
+4.Best for: Memory enhancement, stress reduction, brain health.</string>
+    <string name="Giloy">1.Importance:\n
+Giloy, also known as Guduchi, is a potent immune booster and detoxifier in Ayurvedic medicine.\n
+2.Health Benefits:\n
+*Immune boosting: Giloy strengthens the immune system, increasing the body resistance to infections and diseases.\n
+*Detoxification: It helps remove toxins from the body, supporting overall health and well-being.\n
+*Fever reduction: Giloy is effective in reducing fever and alleviating symptoms of infections like cold and flu.\n
+3.Recipes/Procedures:\n
+*Giloy Kadha: Boil Giloy stems with water and spices to make a nourishing herbal decoction.\n
+*Giloy Juice: Blend Giloy stems with water and honey for a refreshing and immune-boosting drink.\n
+4.Best for: Immune boosting, detoxification, fever reduction.</string>
+    <string name="Neem"> 1.Importance:\n
+Neem is a versatile herb with powerful antibacterial, antiviral, and antifungal properties.\n
+2.Health Benefits:\n
+*Skin health: Neem treats various skin conditions like acne, eczema, and psoriasis due to its antimicrobial properties.\n
+*Oral hygiene: It helps prevent cavities, gum diseases, and bad breath when used as a mouthwash or toothpaste.\n
+*Immune support: Neem boosts immunity and helps the body fight off infections and diseases.\n
+3.Recipes/Procedures:\n
+*Neem Water: Boil Neem leaves in water, cool, and use as a natural face wash or mouthwash.\n
+*Neem Oil: Apply Neem oil topically to treat skin infections and promote wound healing.\n
+4.Best for: Skin health, oral hygiene, immune support.</string>
+
+    <string name="Triphala">1.Importance:\n
+Triphala is a traditional Ayurvedic formula consisting of three fruits: Amalaki (Amla), Bibhitaki, and Haritaki.\n
+2.Health Benefits:\n
+*Digestive health: Triphala promotes healthy digestion, relieves constipation, and supports bowel regularity.\n
+*Detoxification: It helps remove toxins from the body, cleansing the digestive system and improving nutrient absorption.\n
+*Antioxidant properties: Triphala is rich in antioxidants, protecting cells from damage and supporting overall health.\n
+3.Recipes/Procedures:\n
+*Triphala Powder: Mix Triphala powder with warm water or milk as a daily tonic for digestive health.\n
+*Triphala Ghee: Blend Triphala powder with clarified butter (ghee) and consume a teaspoon daily for detoxification.\n
+*Triphala Tea: Boil Triphala powder in water, strain, and drink as a herbal tea for digestive support.\n
+4.Best for: Digestive health, detoxification, antioxidant support.</string>
+    <string name="Guduchi">1.Importance:\n
+Guduchi, also known as Giloy, is highly valued in Ayurveda for its immune-boosting and rejuvenating properties.\n
+2.Health Benefits:\n
+*Immune support: Guduchi strengthens the immune system, making the body more resilient to infections and diseases.\n
+*Liver health: It helps detoxify the liver and supports its proper functioning, promoting overall health.\n
+*Anti-inflammatory: Guduchi reduces inflammation in the body, relieving symptoms of arthritis and other inflammatory conditions.\n
+3.Recipes/Procedures:\n
+*Guduchi Kadha: Boil Guduchi stems with water and spices to make a potent immune-boosting decoction.\n
+*Guduchi Soup: Simmer Guduchi stems with vegetables and spices for a nourishing and healing soup.\n
+*Guduchi Juice: Extract Guduchi juice and consume daily for immune support and inflammation reduction.\n
+4.Best for: Immune support, liver health, inflammation reduction.</string>
+    <string name="Tulsi">1.Importance:\n
+Tulsi, or Holy Basil, is considered sacred in Ayurveda and is known for its medicinal properties.\n
+2.Health Benefits:\n
+*Respiratory health: Tulsi helps relieve cough, cold, and other respiratory ailments due to its expectorant properties.\n
+*Stress reduction: It has adaptogenic properties that help the body adapt to stress and promote relaxation.\n
+*Antimicrobial: Tulsi has antibacterial and antiviral properties, protecting against infections and boosting immunity.\n
+3.Recipes/Procedures:\n
+*Tulsi Tea: Steep Tulsi leaves in hot water with ginger and honey for a soothing tea.\n
+*Tulsi Syrup: Boil Tulsi leaves with sugar to make a sweet and medicinal syrup.\n
+*Tulsi Capsules: Consume Tulsi capsules daily for respiratory health and stress reduction.\n
+4.Best for: Respiratory health, stress reduction, immune support.</string>
+    <string name="Moringa">1.Importance:\n
+Moringa is a nutrient-rich superfood known for its exceptional nutritional value and health benefits.\n
+2.Health Benefits:\n
+*Nutrient powerhouse: Moringa is packed with vitamins, minerals, and antioxidants, supporting overall health and well-being.\n
+*Energy boost: It helps combat fatigue and increase energy levels due to its high iron content.\n
+*Anti-inflammatory: Moringa reduces inflammation in the body, relieving symptoms of arthritis and other inflammatory conditions.\n
+3.Recipes/Procedures:\n
+*Moringa Smoothie: Blend Moringa leaves with fruits and coconut water for a nutritious and energizing smoothie.\n
+*Moringa Salad: Toss Moringa leaves with chopped vegetables, lemon juice, and olive oil for a vibrant and healthy salad.\n
+*Moringa Soup: Simmer Moringa leaves with vegetables and spices for a nutritious and healing soup.\n
+4.Best for: Nutrient boost, energy enhancement, inflammation reduction.</string>
+
+    <string name="Shatavari">1.Importance:\n
+Shatavari is a revered herb in Ayurveda known for its hormone-balancing and rejuvenating properties.\n
+2.Health Benefits:\n
+*Hormonal balance: Shatavari supports reproductive health in both men and women, balancing hormones and regulating menstrual cycles.\n
+*Stress reduction: It has adaptogenic properties that help the body cope with stress and promote relaxation.\n
+*Digestive support: Shatavari soothes the digestive system and improves nutrient absorption, relieving symptoms of indigestion.\n
+3.Recipes/Procedures:\n
+*Shatavari Milk: Boil Shatavari root powder with milk and honey for a nourishing and hormone-balancing drink.\n
+*Shatavari Ghee: Mix Shatavari powder with clarified butter (ghee) and consume a teaspoon daily for hormonal support.\n
+*Shatavari Capsules: Consume Shatavari capsules daily for reproductive health and stress reduction.\n
+4.Best for: Hormonal balance, stress reduction, digestive support.</string>
+    <string name="Haritaki">1.Importance:\n
+Haritaki is a potent herb in Ayurveda known for its detoxifying and rejuvenating properties.\n
+2.Health Benefits:\n
+*Digestive health: Haritaki promotes healthy digestion, relieves constipation, and supports bowel regularity.\n
+*Detoxification: It helps remove toxins from the body, cleansing the digestive system and improving nutrient absorption.\n
+*Anti-inflammatory: Haritaki reduces inflammation in the body, alleviating symptoms of arthritis and other inflammatory conditions.\n
+2.Recipes/Procedures:\n
+*Haritaki Decoction: Boil Haritaki powder in water, strain, and drink for detoxification and digestive health.\n
+*Haritaki Churna: Mix Haritaki powder with honey or warm water for a cleansing and rejuvenating tonic.\n
+*Haritaki Capsules: Consume Haritaki capsules daily for digestive health and inflammation reduction.\n
+4.Best for: Digestive health, detoxification, inflammation reduction.</string>
+    <string name="Bhringraj">1.Importance:\n
+Bhringraj, also known as False Daisy, is a traditional Ayurvedic herb known for its hair-strengthening and scalp-nourishing properties.\n
+2.Health Benefits:\n
+*Hair growth: Bhringraj stimulates hair follicles and promotes hair growth, preventing hair loss and baldness.\n
+*Scalp health: It nourishes the scalp, prevents dandruff, and soothes scalp irritation and inflammation.\n
+*Hair conditioning: Bhringraj conditions the hair, making it soft, shiny, and manageable.\n
+3.Recipes/Procedures:\n
+*Bhringraj Hair Oil: Infuse Bhringraj leaves in coconut oil and massage onto the scalp for hair growth and scalp health.\n
+*Bhringraj Hair Rinse: Steep Bhringraj leaves in hot water, cool, and use as a final rinse after shampooing for shiny and healthy hair.\n
+*Bhringraj Hair Mask: Mix Bhringraj powder with yogurt and apply to hair for deep conditioning and nourishment.\n
+4.Best for: Hair growth, scalp health, hair conditioning.</string>
+    <string name="Kutki">1.Importance:\n
+Kutki is a bitter herb in Ayurveda known for its liver-protective and digestive properties.\n
+2.Health Benefits:\n
+*Liver health: Kutki supports liver function and protects the liver from damage, promoting detoxification and overall health.\n
+*Digestive support: It stimulates digestion, relieves indigestion, and improves nutrient absorption.\n
+*Detoxification: Kutki helps remove toxins from the body, cleansing the liver and digestive system.\n
+3.Recipes/Procedures:\n
+*Kutki Tonic: Steep Kutki root in hot water, strain, and drink as a daily tonic for liver health and detoxification.\n
+*Kutki Capsules: Fill empty capsules with Kutki powder and consume as a convenient supplement for liver support.\n
+*Kutki Decoction: Boil Kutki root powder in water, strain, and drink as a herbal tonic for digestion and detoxification.\n
+4.Best for: Liver health, digestive support, detoxification.</string>
+    <string name="Vidanga">1.Importance:\n
+Vidanga is a powerful herb in Ayurveda known for its antiparasitic and digestive properties.\n
+2.Health Benefits:\n
+*Antiparasitic: Vidanga helps eliminate intestinal parasites and worms, promoting digestive health and overall well-being.\n
+*Digestive support: It stimulates digestion, relieves indigestion, and improves nutrient absorption.\n
+*Antimicrobial: Vidanga has antimicrobial properties that help fight off harmful bacteria and fungi in the digestive tract.\n
+3.Recipes/Procedures:\n
+*Vidanga Decoction: Boil Vidanga seeds in water, strain, and drink as a herbal tonic for digestive health and parasite elimination.\n
+*Vidanga Powder: Mix Vidanga powder with honey or warm water and consume as a natural remedy for parasitic infections.\n
+*Vidanga Capsules: Consume Vidanga capsules daily for digestive support and antimicrobial protection.\n
+4.Best for: Antiparasitic, digestive support, antimicrobial.</string>
+    <string name="Musta">1.Importance:\n
+Musta, also known as Nutgrass or Cyperus rotundus, is a traditional Ayurvedic herb known for its digestive and anti-inflammatory properties.\n
+2.Health Benefits:\n
+*Digestive health: Musta promotes healthy digestion, relieves indigestion, and supports bowel regularity.\n
+*Anti-inflammatory: It reduces inflammation in the body, alleviating symptoms of arthritis and other inflammatory conditions.\n
+*Antimicrobial: Musta has antimicrobial properties that help fight off harmful bacteria and fungi in the digestive tract.\n
+3.Recipes/Procedures:\n
+*Musta Tea: Steep Musta root in hot water with ginger and honey for a soothing tea that aids digestion.\n
+*Musta Powder: Mix Musta powder with warm water or milk and consume as a herbal tonic for digestive health and inflammation reduction.\n
+*Musta Extract: Take Musta extract daily for digestive support and antimicrobial protection.\n
+4.Best for: Digestive health, inflammation reduction, antimicrobial.</string>
+    <string name="Bhumiamla">1.Importance:\n
+Bhumiamla, also known as Phyllanthus niruri or Stonebreaker, is a medicinal herb used in Ayurveda for its liver-protective and diuretic properties.\n
+2.Health Benefits:\n
+*Liver health: Bhumiamla supports liver function and protects the liver from damage, promoting detoxification and overall health.\n
+*Kidney health: It acts as a diuretic, promoting urine production and flushing out toxins from the kidneys.\n
+*Digestive support: Bhumiamla stimulates digestion, relieves indigestion, and improves nutrient absorption.\n
+3.Recipes/Procedures:\n
+*Bhumiamla Decoction: Boil Bhumiamla leaves in water, strain, and drink as a herbal tonic for liver and kidney health.\n
+*Bhumiamla Capsules: Consume Bhumiamla capsules daily for liver and kidney support.\n
+*Bhumiamla Powder: Mix Bhumiamla powder with warm water or honey and consume as a daily tonic for digestion and detoxification.\n
+4.Best for: Liver health, kidney health, digestive support.</string>
+    <string name="Vacha">1.Importance:\n
+Vacha, also known as Acorus calamus or Sweet Flag, is a traditional Ayurvedic herb known for its cognitive-enhancing and digestive properties.\n
+2.Health Benefits:\n
+*Cognitive enhancement: Vacha improves memory, concentration, and mental clarity, enhancing cognitive function.\n
+*Digestive support: It stimulates digestion, relieves indigestion, and improves nutrient absorption.\n
+*Respiratory health: Vacha helps alleviate respiratory conditions like cough, cold, and asthma due to its expectorant properties.\n
+3.Recipes/Procedures:\n
+*Vacha Powder: Mix Vacha powder with warm water or honey and consume as a herbal tonic for cognitive enhancement and digestive support.\n
+*Vacha Inhalation: Inhale the vapors of Vacha essential oil or burn Vacha roots to relieve respiratory congestion and promote clear breathing.\n
+*Vacha Capsules: Consume Vacha capsules daily for cognitive enhancement, digestive support, and respiratory health.\n
+4.Best for: Cognitive enhancement, digestive support, respiratory health.</string>
+    <string name="Gokshura">1.Importance:\n
+Gokshura, also known as Tribulus terrestris or Gokhru, is a medicinal herb used in Ayurveda for its rejuvenating and aphrodisiac properties.\n
+2.Health Benefits:\n
+*Sexual health: Gokshura enhances libido, improves sexual performance, and treats erectile dysfunction.\n
+*Urinary health: It promotes urinary tract health, relieves urinary problems, and prevents kidney stones.\n
+*Muscle strength: Gokshura increases muscle mass, improves strength, and enhances athletic performance.\n
+3.Recipes/Procedures:\n
+*Gokshura Capsules: Consume Gokshura capsules daily for sexual health, urinary tract health, and muscle strength.\n
+*Gokshura Tea: Steep Gokshura leaves in hot water with honey for a herbal tea that supports sexual and urinary health.\n
+*Gokshura Extract: Take Gokshura extract daily for sexual enhancement, urinary health, and muscle strength.\n
+4.Best for: Sexual health, urinary health, muscle strength.</string>
+    <string name="Shankhpushpi">1.Importance:\n
+Shankhpushpi is a renowned Ayurvedic herb known for its memory-enhancing and stress-reducing properties.\n
+2.Health Benefits:\n
+*Memory enhancement: Shankhpushpi improves cognitive function, memory retention, and mental clarity.\n
+*Stress reduction: It has adaptogenic properties that help the body cope with stress and promote relaxation.\n
+*Sleep aid: Shankhpushpi induces restful sleep, treats insomnia, and improves sleep quality.\n
+3.Recipes/Procedures:\n
+*Shankhpushpi Syrup: Boil Shankhpushpi leaves with sugar to make a sweet and medicinal syrup for memory enhancement and stress reduction.\n
+*Shankhpushpi Powder: Mix Shankhpushpi powder with warm milk or water and consume as a sleep aid and brain tonic.\n
+*Shankhpushpi Capsules: Consume Shankhpushpi capsules daily for memory enhancement, stress reduction, and improved sleep.\n
+4.Best for: Memory enhancement, stress reduction, sleep aid.</string>
+    <string name="Kapikacchu">1.Importance:\n
+Kapikacchu, also known as Mucuna pruriens or Velvet Bean, is a medicinal herb used in Ayurveda for its aphrodisiac and nervine properties.\n
+2.Health Benefits:\n
+*Aphrodisiac: Kapikacchu increases libido, enhances sexual performance, and treats erectile dysfunction.\n
+*Nervine tonic: It strengthens the nervous system, improves nerve function, and relieves neurological disorders.\n
+*Mood enhancement: Kapikacchu boosts mood, alleviates depression and anxiety, and promotes emotional well-being.\n
+3.Recipes/Procedures:\n
+*Kapikacchu Capsules: Consume Kapikacchu capsules daily for sexual health, nervous system support, and mood enhancement.\n
+*Kapikacchu Powder: Mix Kapikacchu powder with warm milk or water and consume as a nerve tonic and mood enhancer.\n
+*Kapikacchu Extract: Take Kapikacchu extract daily for aphrodisiac effects, nervine support, and mood enhancement.\n
+4.Best for: Aphrodisiac, nervine tonic, mood enhancement.</string>
+    <string name="Punarnava">1.Importance:\n
+Punarnava, also known as Boerhavia diffusa or Spreading Hogweed, is a medicinal herb used in Ayurveda for its diuretic and anti-inflammatory properties.\n
+2.Health Benefits:\n
+*Kidney health: Punarnava promotes kidney health, prevents kidney stones, and treats urinary problems.\n
+*Edema relief: It reduces swelling and water retention in the body, alleviating symptoms of edema and bloating.\n
+*Anti-inflammatory: Punarnava reduces inflammation in the body, relieving symptoms of arthritis and other inflammatory conditions.\n
+3.Recipes/Procedures:\n
+*Punarnava Tea: Steep Punarnava leaves in hot water with ginger and honey for a diuretic and anti-inflammatory tea.\n
+*Punarnava Decoction: Boil Punarnava roots in water, strain, and drink as a herbal tonic for kidney health and edema relief.\n
+*Punarnava Capsules: Consume Punarnava capsules daily for kidney health, edema relief, and inflammation reduction.\n
+4.Best for: Kidney health, edema relief, inflammation reduction.</string>
+    <string name="Yashtimadhu">1.Importance:\n
+Yashtimadhu, also known as Licorice or Glycyrrhiza glabra, is a medicinal herb used in Ayurveda for its anti-inflammatory and digestive properties.\n
+2.Health Benefits:\n
+*Digestive health: Yashtimadhu soothes the digestive system, relieves indigestion, and treats stomach ulcers.\n
+*Respiratory health: It helps alleviate respiratory conditions like cough, cold, and asthma due to its expectorant properties.\n
+*Anti-inflammatory: Yashtimadhu reduces inflammation in the body, relieving symptoms of arthritis and other inflammatory conditions.\n
+3.Recipes/Procedures:\n
+*Yashtimadhu Churna: Mix Yashtimadhu powder with warm water or honey and consume as a herbal tonic for digestive and respiratory health.\n
+*Yashtimadhu Ghee: Mix Yashtimadhu powder with clarified butter (ghee) and consume a teaspoon daily for inflammation reduction and overall health.\n
+*Yashtimadhu Tea: Steep Yashtimadhu roots in hot water with cinnamon and honey for a soothing tea that supports respiratory and digestive health.\n
+4.Best for: Digestive health, respiratory health, inflammation reduction.</string>
+    <string name="Kutaja">1.Importance:\n
+Kutaja, also known as Holarrhena antidysenterica or Connessi Bark, is a medicinal herb used in Ayurveda for its antidiarrheal and digestive properties.\n
+2.Health Benefits:\n
+*Diarrhea relief: Kutaja treats acute and chronic diarrhea, stops loose stools, and relieves abdominal pain and cramps.\n
+*Digestive support: It soothes the digestive system, relieves indigestion, and promotes bowel regularity.\n
+*Antimicrobial: Kutaja has antimicrobial properties that help fight off harmful bacteria and parasites in the digestive tract.\n
+3.Recipes/Procedures:\n
+*Kutaja Decoction: Boil Kutaja bark in water, strain, and drink as a herbal tonic for diarrhea relief and digestive support.\n
+*Kutaja Capsules: Consume Kutaja capsules daily for gastrointestinal health, diarrhea relief, and antimicrobial support.\n
+*Kutaja Syrup: Mix Kutaja extract with honey or warm water and consume as a natural remedy for diarrhea and digestive disorders.\n
+4.Best for: Diarrhea relief, digestive support, antimicrobial.</string>
+    <string name="Bael">
+1.Recipe/Procedure:
+*Bael juice - extract juice from ripe bael fruit, mix with water and honey, drink for digestive health.
+2.Importance:
+Bael is rich in antioxidants and is known for its digestive and medicinal properties, aiding in digestion and promoting overall gut health.
+3.Benefits:
+*Digestive aid: Bael juice helps treat various digestive disorders such as constipation, diarrhea, and indigestion.
+*Immune booster: It boosts immunity and helps fight against infections and diseases due to its high vitamin C content.
+4.Best for: Digestive health, immune support.
+</string>
+
+    <string name="GotuKola">
+1.Recipe/Procedure:
+*Gotu kola salad - toss fresh gotu kola leaves with chopped vegetables, olive oil, and lemon juice.
+Importance:
+*Gotu kola is a medicinal herb known for its rejuvenating and cognitive-enhancing properties, promoting overall well-being.
+2.Benefits:
+*Brain health: Gotu kola enhances memory, improves cognitive function, and reduces stress and anxiety.
+*Skin rejuvenation: It boosts collagen production, improves skin elasticity, and helps in wound healing and scar reduction.
+3.Best for: Cognitive health, skin rejuvenation.
+</string>
+
+    <string name="Pippali">
+1.Recipe/Procedure:
+*Pippali churna - grind dried pippali fruits into powder, mix with honey, consume for respiratory health.
+2.Importance:
+Pippali is a traditional Ayurvedic herb known for its respiratory and digestive benefits, aiding in the management of various respiratory disorders.
+Benefits:
+*Respiratory support: Pippali helps relieve cough, congestion, asthma, and bronchitis by clearing the respiratory passages and reducing inflammation.
+*Digestive aid: It improves digestion, stimulates appetite, and relieves gastrointestinal issues such as bloating and flatulence.
+3.Best for: Respiratory health, digestive support.
+</string>
+
+    <string name="Bhumyamalaki">
+1.Recipe/Procedure:
+*Bhumyamalaki tea - steep dried bhumyamalaki herb in hot water, drink for liver detoxification.
+2.Importance:
+Bhumyamalaki, also known as "stonebreaker," is renowned for its liver-protective and detoxifying properties, supporting overall liver health.
+3.Benefits:
+*Liver support: Bhumyamalaki helps detoxify the liver, promotes bile flow, and prevents liver damage caused by toxins and free radicals.
+*Kidney health: It aids in the dissolution of kidney stones, prevents urinary tract infections, and promotes kidney function.
+4.Best for: Liver detoxification, kidney health.
+</string>
+    //beauty
+    <string name="AloeVera_for_beauty">
+1.Procedure:\n
+*Aloe vera face mask - mix aloe vera gel with honey, apply to face for hydration.\n
+2.Importance:\n
+Aloe vera is renowned for its moisturizing and soothing properties, making it ideal for hydrating and calming the skin.\n
+3.Benefits:\n
+*Hydration: Aloe vera deeply moisturizes the skin, leaving it soft, supple, and revitalized.\n
+*Soothing: It soothes irritated skin, reduces redness, and alleviates sunburns and inflammations.\n
+4.Best for: Hydration, soothing sensitive skin.\n
+</string>
+
+    <string name="Turmeric_for_beauty">
+1.Recipe:\n
+*Turmeric face scrub - mix turmeric powder with yogurt and chickpea flour, exfoliate skin.\n
+2.Importance:\n
+Turmeric is revered for its anti-inflammatory and antioxidant properties, making it beneficial for skin health and complexion.\n
+3.Benefits:\n
+*Exfoliation: Turmeric gently exfoliates the skin, removing dead cells and impurities, revealing a brighter complexion.\n
+*Brightening: It evens out skin tone, reduces dark spots and hyperpigmentation, and enhances natural glow.\n
+4.Best for: Exfoliation, brightening complexion.\n
+</string>
+
+    <string name="Sandalwood">
+1.Recipe:\n
+*Sandalwood face pack - mix sandalwood powder with rose water, apply to face for glowing skin.\n
+2.Importance:\n
+Sandalwood is prized for its astringent, antimicrobial, and cooling properties, making it beneficial for skin care and complexion enhancement.\n
+3.Benefits:\n
+*Cooling: Sandalwood has a cooling effect on the skin, soothing sunburns, rashes, and inflammations.\n
+*Anti-acne: It helps treat acne, pimples, and blemishes by reducing oiliness and preventing bacterial growth.\n
+4.Best for: Cooling, acne treatment.\n
+</string>
+
+    <string name="Neem_for_beauty">
+1.Recipe:\n
+*Neem face wash - boil neem leaves, strain, use the water to wash face for acne treatment.\n
+2.Importance:\n
+Neem is renowned for its antibacterial, antifungal, and anti-inflammatory properties, making it effective in treating various skin conditions.\n
+3.Benefits:\n
+*Acne treatment: Neem helps combat acne and breakouts by controlling excess oil production and fighting acne-causing bacteria.\n
+*Skin purification: It purifies the skin, unclogs pores, and prevents the recurrence of acne and blemishes.\n
+4.Best for: Acne treatment, skin purification.\n
+</string>
+
+    <string name="Rose">
+1.Recipe:\n
+*Rosewater toner - mix rosewater with witch hazel, apply to face with a cotton pad.\n
+2.Importance:\n
+Rose is prized for its aromatic, soothing, and antioxidant-rich properties, making it beneficial for skincare, toning, and rejuvenation.\n
+3.Benefits:\n
+*Toning: Rosewater tones and tightens the skin, reducing the appearance of pores and enhancing skin texture.\n
+*Hydration: It hydrates and refreshes the skin, restoring pH balance and promoting a radiant complexion.\n
+4.Best for: Toning, hydration.\n
+</string>
+
+    <string name="Hibiscus_for_beauty">
+1.Recipe:\n
+*Hibiscus hair mask - blend hibiscus flowers with coconut oil, apply to hair for shine.\n
+2.Importance:\n
+Hibiscus is rich in vitamins and antioxidants, promoting hair growth, scalp health, and shine.\n
+3.Benefits:\n
+*Hair growth: Hibiscus stimulates hair follicles, reduces hair fall, and promotes thicker, luscious hair growth.\n
+*Shine: It nourishes the scalp, strengthens hair strands, and adds shine and vitality to dull, lifeless hair.\n
+4.Best for: Hair growth, shine.\n
+</string>
+
+    <string name="Brahmi_for_beauty">
+1.Procedure:\n
+*Brahmi hair oil - infuse brahmi leaves in coconut oil, massage onto scalp for hair growth.\n
+2.Importance:\n
+Brahmi is renowned for its rejuvenating and nourishing properties, benefiting scalp health and hair growth.\n
+3.Benefits:\n
+*Scalp health: Brahmi strengthens hair roots, reduces dandruff, and soothes scalp irritations, promoting overall scalp health.\n
+*Hair growth: It stimulates hair follicles, enhances hair growth, and prevents premature hair loss and graying.\n
+4.Best for: Scalp health, hair growth.\n
+</string>
+
+    <string name="GotuKola_for_beauty">
+1.Recipe:\n
+*Gotu kola face serum - mix gotu kola extract with aloe vera gel, apply to face for anti-aging.\n
+2.Importance:\n
+Gotu kola is rich in triterpenoids, promoting collagen synthesis, skin elasticity, and anti-aging effects.\n
+3.Benefits:\n
+*Anti-aging: Gotu kola reduces fine lines, wrinkles, and sagging skin, improving skin firmness and elasticity.\n
+*Skin rejuvenation: It boosts circulation, repairs damaged skin, and enhances skin texture and tone.\n
+4.Best for: Anti-aging, skin rejuvenation.\n
+</string>
+
+    <string name="Fenugreek_for_beauty">
+1.Recipe:\n
+*Fenugreek hair rinse - steep fenugreek seeds in water, use as a final hair rinse for shine.\n
+2.Importance:\n
+Fenugreek is packed with proteins and nutrients, nourishing hair follicles, preventing hair loss, and promoting hair growth.\n
+3.Benefits:\n
+*Hair growth: Fenugreek strengthens hair roots, reduces hair fall, and stimulates hair growth, resulting in thicker, healthier hair.\n
+*Shine: It conditions the hair, adds shine, and prevents dullness, making hair soft, silky, and manageable.\n
+4.Best for: Hair growth, shine.\n
+</string>
+
+    <string name="Coconut">
+1.Procedure:\n
+*Coconut oil hair mask - warm coconut oil, massage onto hair and scalp, leave overnight, and wash in the morning.\n
+2.Importance:\n
+Coconut oil is rich in fatty acids and vitamins, deeply moisturizing the hair, preventing damage, and promoting hair growth.\n
+3.Benefits:\n
+*Moisturization: Coconut oil penetrates the hair shaft, nourishing and hydrating dry, damaged hair, and preventing breakage and split ends.\n
+*Hair growth: It strengthens hair follicles, reduces protein loss, and stimulates hair growth, resulting in longer, thicker hair.\n
+4.Best for: Moisturization, hair growth.\n
+</string>
+
+    <string name="Avocado">
+1.Recipe:\n
+*Avocado face mask - mash avocado, mix with honey and yogurt, apply to face for moisturizing.\n
+2.Importance:\n
+Avocado is rich in healthy fats, vitamins, and antioxidants, providing deep hydration and nourishment to the skin.\n
+3.Benefits:\n
+*Hydration: Avocado deeply moisturizes the skin, replenishing lost moisture and preventing dryness and flakiness.\n
+*Nourishment: It delivers essential nutrients and antioxidants to the skin, promoting cell regeneration and skin repair.\n
+4.Best for: Hydrating, nourishing skin\n
+
+</string>
+
+    <string name="Oatmeal">
+1.Recipe:\n
+*Oatmeal bath soak - grind oatmeal, add to bathwater for soothing irritated skin.\n
+2.Importance:\n
+Oatmeal is a natural soothing agent with anti-inflammatory properties, relieving itching, irritation, and inflammation.\n
+3.Benefits:\n
+*Soothing: Oatmeal calms irritated skin, reduces redness, and relieves itching caused by eczema, rashes, and insect bites.\n
+*Moisturizing: It forms a protective barrier on the skin, locking in moisture and preventing dryness and discomfort.\n
+4.Best for: Soothing irritated skin, relieving itching.\n
+</string>
+
+    <string name="Lemon">
+1.Recipe:\n
+*Lemon face cleanser - mix lemon juice with water, use as a natural cleanser for oily skin.\n
+2.Importance:\n
+Lemon is rich in citric acid and vitamin C, offering astringent, antimicrobial, and brightening effects for oily skin.\n
+3.Benefits:\n
+*Cleansing: Lemon cleanses and purifies the skin, removing excess oil, dirt, and impurities, and preventing breakouts.\n
+*Brightening: It lightens dark spots, evens out skin tone, and enhances natural radiance, revealing a brighter complexion.\n
+4.Best for: Cleansing, brightening oily skin.\n
+</string>
+
+
+    <string name="Cucumber">
+1.Recipe:\n
+*Cucumber eye pads - slice cucumber, place on eyes to reduce puffiness and dark circles.\n
+2.Importance:\n
+Cucumber is rich in antioxidants and vitamins, offering cooling and soothing properties for the delicate skin around the eyes.\n
+3.Benefits:\n
+*Puffiness reduction: Cucumber anti-inflammatory properties help reduce puffiness and swelling around the eyes, making them appear refreshed.\n
+*Dark circle reduction: The natural bleaching agents in cucumber help lighten dark circles and reduce the appearance of under-eye discoloration.\n
+4.Best for: Reducing puffiness and dark circles around the eyes.\n
+</string>
+
+    <string name="Almond">
+1.Recipe:\n
+*Almond face scrub - grind almonds, mix with honey, scrub face for exfoliation.\n
+2.Importance:\n
+Almonds are packed with vitamin E and antioxidants, providing gentle exfoliation and nourishment for the skin.\n
+3.Benefits:\n
+*Exfoliation: Almonds granular texture gently buffs away dead skin cells, revealing smoother, brighter skin underneath.\n
+*Nourishment: Its high vitamin E content moisturizes and protects the skin from environmental damage, keeping it soft and supple.\n
+4.Best for: Gentle exfoliation, skin nourishment.\n
+</string>
+
+    <string name="Papaya">
+1.Recipe:\n
+*Papaya face mask - mash papaya, mix with yogurt and honey, apply to face for brightening.\n
+2.Importance:\n
+Papaya contains papain, an enzyme that exfoliates dead skin cells, brightens the complexion, and promotes skin renewal.\n
+3.Benefits:\n
+*Brightening: Papaya enzymes gently exfoliate the skin, reducing dullness and revealing a radiant, glowing complexion.\n
+*Renewal: It promotes cell turnover, fades dark spots, and evens out skin tone, resulting in smoother, more youthful-looking skin.\n
+4.Best for: Brightening the complexion, promoting skin renewal.\n
+</string>
+
+
+    <string name="GreenTea">
+1.Recipe:\n
+*Green tea face mist - steep green tea bags, cool, transfer to a spray bottle, use as a refreshing mist.\n
+2.Importance:\n
+Green tea is rich in polyphenols and catechins, offering antioxidant, anti-inflammatory, and rejuvenating properties for the skin.\n
+3.Benefits:\n
+*Antioxidant protection: Green tea neutralizes free radicals, protects the skin from environmental damage, and delays signs of aging.\n
+*Refreshing hydration: Its hydrating and soothing properties refresh and rejuvenate the skin, leaving it feeling revitalized and balanced.\n
+4.Best for: Antioxidant protection, refreshing hydration.\n
+</string>
+
+    <string name="Carrot">
+1.Recipe:\n
+*Carrot face mask - blend carrot, mix with honey and yogurt, apply to face for anti-aging.\n
+2.Importance:\n
+Carrot is rich in beta-carotene and vitamin C, promoting collagen production, skin renewal, and anti-aging effects.\n
+3.Benefits:\n
+*Anti-aging: Carrot antioxidants and vitamins stimulate collagen synthesis, reduce wrinkles, and improve skin elasticity, resulting in firmer, smoother skin.\n
+*Skin renewal: It promotes cell turnover, fades dark spots, and evens out skin tone, revealing a youthful, radiant complexion.\n
+4.Best for: Anti-aging, promoting skin renewal.\n
+</string>
+
+    <string name="Rosemary">
+1.Recipe:\n
+*Rosemary hair rinse - steep rosemary leaves in water, use as a final hair rinse for strengthening.\n
+2.Importance:\n
+Rosemary is rich in antioxidants and nutrients that nourish the scalp, strengthen hair follicles, and promote healthy hair growth.\n
+3.Benefits:\n
+*Hair strengthening: Rosemary improves blood circulation to the scalp, strengthens hair roots, and prevents hair loss and breakage, resulting in thicker, stronger hair.\n
+*Scalp health: It soothes inflammation, reduces dandruff, and balances oil production, maintaining a healthy scalp environment for optimal hair growth.\n
+4.Best for: Strengthening hair, promoting scalp health.\n
+</string>
+
+    <string name="Mint_for_beauty">
+1.Recipe:\n
+*Mint foot scrub - crush mint leaves, mix with sugar and coconut oil, scrub feet for softness.\n
+2.Importance:\n
+Mint has cooling and refreshing properties that soothe tired, achy feet, and exfoliate rough, dry skin, leaving them soft and smooth.\n
+3.Benefits:\n
+*Exfoliation: Mint texture gently buffs away dead skin cells, rough patches, and calluses, revealing softer, smoother feet underneath.\n
+*Cooling sensation: It provides a refreshing, cooling sensation that relieves fatigue, swelling, and discomfort, making feet feel revitalized and invigorated.\n
+4.Best for: Exfoliating, refreshing tired feet.\n
+</string>
+
+    <string name="Amla_for_beauty">
+1.Recipe:\n
+*Amla hair oil - infuse amla powder in coconut oil, massage onto scalp for hair growth.\n
+2.Importance:\n
+Amla is rich in vitamin C and antioxidants, promoting hair growth, preventing premature graying, and nourishing the scalp.\n
+3.Benefits:\n
+*Hair growth: Amla stimulates hair follicles, strengthens hair roots, and improves blood circulation to the scalp, promoting healthy hair growth and reducing hair fall.\n
+*Scalp nourishment: It nourishes and moisturizes the scalp, reduces dryness and itching, and maintains a healthy scalp environment for optimal hair health.\n
+4.Best for: Promoting hair growth, nourishing the scalp.\n
+</string>
+
+    <string name="Manjistha">
+1.Procedure/Recipe:\n
+*Manjistha face pack - mix Manjistha powder with rose water, apply on face for glowing skin.\n
+2.Importance:\n
+Manjistha is renowned in Ayurveda for its ability to purify the blood and detoxify the body. It is also known for its skin-brightening properties and its ability to promote overall skin health.\n
+3.Benefits:\n
+*Skin brightening: Manjistha helps in reducing pigmentation, dark spots, and blemishes, leading to a clearer and brighter complexion.\n
+*Detoxification: It aids in removing toxins from the body, which can help in improving skin health and reducing acne and other skin issues.\n
+4.Best for: Brightening skin complexion, reducing pigmentation and blemishes.\n
+</string>
+
+    <string name="Chandan">
+1.Procedure/Recipe:\n
+*Sandalwood face pack - mix sandalwood powder with rose water, apply on face for glowing skin.\n
+2.Importance:\n
+Sandalwood is renowned for its cooling and soothing properties, making it beneficial for various skin conditions. It has been used in Ayurveda for centuries to enhance skin complexion and treat skin ailments.\n
+3.Benefits:\n
+*Skin brightening: Sandalwood helps to lighten skin tone, reduce pigmentation, and even out complexion, leaving the skin radiant and glowing.\n
+*Soothing: It has a calming effect on the skin, reducing inflammation, irritation, and redness, making it suitable for sensitive and acne-prone skin.\n
+4.Best for: Brightening skin complexion, soothing skin inflammation, and enhancing skin radiance.\n
+</string>
+
+    <string name="Lodhra">
+1.Procedure/Recipe:\n
+*Lodhra face pack - mix Lodhra powder with rose water, apply on face for skin tightening and rejuvenation.\n
+2.Importance:\n
+Lodhra is highly valued in Ayurveda for its astringent and skin-rejuvenating properties. It is known to tighten the skin, reduce pores, and improve overall skin texture.\n
+3.Benefits:\n
+*Skin tightening: Lodhra helps to firm up the skin and reduce sagging, giving it a more youthful appearance.\n
+*Pore reduction: It has astringent properties that help to shrink enlarged pores and minimize their appearance, resulting in smoother-looking skin.\n
+4.Best for: Skin tightening, pore reduction, and overall skin rejuvenation.\n
+</string>
+
+    //healthy food
+    <string name="Cilantro">
+1.Procedure/Recipe:\n
+*Cilantro Lime Dressing - blend cilantro with lime juice, olive oil, garlic, and honey, use as a salad dressing or marinade.\n
+*Cilantro Rice - cook rice with cilantro leaves, lime zest, and coconut milk for a fragrant and flavorful side dish.\n
+*Cilantro Pesto - blend cilantro with almonds, Parmesan cheese, garlic, and olive oil, use as a pasta sauce or spread.\n
+2.Importance:\n
+Cilantro, also known as coriander leaves, is valued for its fresh and citrusy flavor, as well as its potential health benefits, including improving digestion, detoxification, and reducing inflammation.\n
+3.Benefits:\n
+*Digestive aid: Cilantro contains compounds that help stimulate digestive enzymes, reduce bloating, and alleviate symptoms of indigestion and gas.\n
+*Detoxification: It helps remove heavy metals and toxins from the body, supporting liver health and detoxification processes.\n
+*Anti-inflammatory: Cilantro contains antioxidants and anti-inflammatory compounds that help reduce inflammation, relieve pain, and promote healing.\n
+4.Best for: Digestive health, detoxification, anti-inflammatory.\n
+</string>
+
+    <string name="Tarragon">
+1.Procedure/Recipe:\n
+*Tarragon Chicken Salad - mix shredded chicken with tarragon, grapes, mayonnaise, and celery, serve on bread or lettuce leaves.\n
+*Tarragon Vinaigrette - blend tarragon with vinegar, mustard, shallots, and olive oil, use as a salad dressing or marinade.\n
+*Tarragon Butter Sauce - melt butter with tarragon, lemon juice, and capers, drizzle over fish or vegetables for a flavorful sauce.\n
+2.Importance:\n
+Tarragon is valued for its bittersweet flavor and aromatic properties, as well as its potential health benefits, including improving digestion, reducing inflammation, and promoting heart health.\n
+3.Benefits:\n
+*Digestive aid: Tarragon contains compounds that help stimulate digestion, reduce bloating, and alleviate symptoms of indigestion and gas.\n
+*Anti-inflammatory: Its volatile oils have anti-inflammatory properties that help reduce inflammation, relieve pain, and promote healing.\n
+*Heart health: Tarragon contains potassium, which helps regulate blood pressure, reduce the risk of stroke, and promote heart health.\n
+4.Best for: Digestive health, anti-inflammatory, heart health.\n
+</string>
+
+    <string name="Ajwain">
+1.Procedure/Recipe:\n
+*Ajwain-infused water - boil ajwain seeds in water, strain, and drink for digestion and bloating relief.\n
+*Ajwain paratha - knead whole wheat flour with ajwain seeds, roll into flatbreads, and cook on a griddle with ghee.\n
+*Ajwain tea - steep ajwain seeds in hot water with ginger and honey, drink for cold relief and respiratory health.\n
+2.Importance:\n
+Ajwain, also known as carom seeds, is a spice commonly used in Indian cuisine for its distinct flavor and medicinal properties. It has a pungent taste with notes of thyme and is often used as a digestive aid and remedy for various ailments.\n
+3.Benefits:\n
+*Digestive aid: Ajwain contains active compounds like thymol, which help stimulate digestive enzymes, relieve gas, and alleviate indigestion.\n
+*Respiratory health: The essential oils in ajwain have expectorant properties that help loosen mucus and relieve cough and congestion.\n
+*Antimicrobial: Ajwain possesses antimicrobial properties that can help fight off bacteria and fungi, supporting overall immune health.\n
+4.Best for: Digestive health, respiratory health, immune support.\n
+</string>
+
+    <string name="Amaranth">
+1.Procedure/Recipe:\n
+*Amaranth salad - toss fresh amaranth leaves with chopped vegetables, olive oil, and lemon juice for a nutritious salad.\n
+*Amaranth porridge - cook amaranth grains with milk or water, sweeten with honey or maple syrup, and top with fruits and nuts for breakfast.\n
+*Amaranth soup - simmer amaranth leaves with broth, onions, garlic, and spices, blend until smooth for a hearty soup.\n
+2.Importance:\n
+Amaranth is a nutrient-rich leafy green, rich in vitamins, minerals, and antioxidants, offering various health benefits.\n
+3.Benefits:\n
+*Nutrient-dense: Amaranth leaves are packed with essential nutrients like iron, calcium, vitamins A and C, which support overall health and well-being.\n
+*Digestive health: The dietary fiber in amaranth aids digestion, prevents constipation, and promotes a healthy digestive system.\n
+*Immune support: The vitamins and antioxidants in amaranth help boost immunity, protect against infections, and reduce inflammation.\n
+4.Best for: Nutrient density, digestive health, immune support.\n
+</string>
+
+    <string name="Drumstick_Leaves">
+1.Procedure/Recipe:\n
+*Drumstick leaves curry - sauté drumstick leaves with coconut, onions, and spices, serve with rice or roti for a traditional South Indian dish.\n
+*Drumstick leaves soup - simmer drumstick leaves with lentils, tomatoes, and turmeric, garnish with cilantro, and serve as a nutritious soup.\n
+*Drumstick leaves stir-fry - stir-fry drumstick leaves with garlic, chili, and soy sauce, serve as a flavorful side dish.\n
+2.Importance:\n
+Drumstick leaves are a powerhouse of nutrients, known for their medicinal properties and culinary versatility in South Indian cuisine.\n
+3.Benefits:\n
+*Rich in nutrients: Drumstick leaves are a good source of vitamins, minerals, and antioxidants, promoting overall health and vitality.\n
+*Blood purification: The detoxifying properties of drumstick leaves help purify the blood, remove toxins, and improve skin health.\n
+*Anti-inflammatory: Drumstick leaves contain anti-inflammatory compounds that help reduce inflammation, alleviate pain, and support joint health.\n
+4.Best for: Nutrient richness, blood purification, anti-inflammatory properties.\n
+</string>
+
+    <string name="Spinach">
+1.Procedure/Recipe:\n
+*Spinach and Paneer Curry - Cook spinach with paneer cubes, tomatoes, and spices, simmer in coconut milk for a creamy and nutritious curry.\n
+*Spinach Salad - Toss fresh spinach leaves with chopped vegetables, nuts, and a vinaigrette dressing for a refreshing and healthy salad.\n
+*Spinach Soup - Blend cooked spinach with onions, garlic, and vegetable broth, season with herbs and spices for a comforting soup.\n
+2.Importance:\n
+Spinach is a nutrient-dense leafy green vegetable renowned for its numerous health benefits and culinary versatility.\n
+3.Benefits:\n
+*Rich in nutrients: Spinach is loaded with vitamins, minerals, and antioxidants that support overall health, including eye health, bone strength, and immune function.\n
+*Heart health: The compounds in spinach help lower blood pressure, improve circulation, and reduce the risk of heart disease.\n
+*Digestive aid: Spinach contains fiber and water, promoting digestive regularity and preventing constipation.\n
+4.Best for: Nutrient density, heart health, digestive health.\n
+</string>
+
+    <string name="Brahmi_for_food">
+1.Procedure/Recipe:\n
+*Brahmi Tea - Steep dried Brahmi leaves in hot water, strain, and drink as a calming herbal tea.\n
+*Brahmi Ghee - Infuse Brahmi leaves in clarified butter (ghee), strain, and use as a brain-boosting condiment for savory dishes.\n
+*Brahmi Salad - Sprinkle fresh Brahmi leaves over salads or garnish cooked dishes for added nutrition and flavor.\n
+2.Importance:\n
+Brahmi is a revered herb in Ayurveda known for its cognitive-enhancing properties and its ability to promote overall brain health and well-being.\n
+3.Benefits:\n
+*Cognitive function: Brahmi improves memory, concentration, and cognitive function, making it beneficial for students, professionals, and the elderly.\n
+*Stress reduction: Brahmi has adaptogenic properties that help the body cope with stress, anxiety, and mental fatigue.\n
+*Neuroprotection: The antioxidants in Brahmi protect brain cells from oxidative stress and age-related damage, reducing the risk of cognitive decline.\n
+4.Best for: Cognitive function, stress reduction, neuroprotection.\n
+</string>
+
+
+    <string name="Dill">
+1.Procedure/Recipe:\n
+*Dill Potato Salad - toss boiled potatoes with dill, mayonnaise, mustard, and pickles for a creamy and flavorful salad.\n
+*Dill Salmon - marinate salmon with dill, lemon juice, garlic, and olive oil, grill or bake until cooked through and flaky.\n
+*Dill Yogurt Sauce - mix dill with yogurt, garlic, lemon juice, and salt, use as a dip or sauce for grilled meats or vegetables.\n
+2.Importance:\n
+Dill is valued for its delicate and feathery leaves, as well as its potential health benefits, including improving digestion, reducing inflammation, and promoting bone health.\n
+3.Benefits:\n
+*Digestive aid: Dill contains compounds that help relax the digestive tract, reduce bloating, and alleviate symptoms of indigestion and gas.\n
+*Anti-inflammatory: Its volatile oils have anti-inflammatory properties that help reduce inflammation, relieve pain, and promote healing.\n
+*Bone health: Dill is rich in calcium and vitamin K, which are essential for maintaining bone density and preventing osteoporosis.\n
+4.Best for: Digestive health, anti-inflammatory, bone health.\n
+</string>
+
+    <string name="Oregano">
+1.Procedure/Recipe:\n
+*Oregano Marinara Sauce - simmer tomatoes with oregano, garlic, and onions, use as a pasta sauce or pizza topping.\n
+*Oregano Lemon Chicken - marinate chicken with oregano, lemon juice, garlic, and olive oil, grill or bake until cooked through and juicy.\n
+*Oregano Salad Dressing - mix oregano with olive oil, vinegar, garlic, and Dijon mustard, toss with salad greens for a zesty dressing.\n
+2.Importance:\n
+Oregano is prized for its pungent and aromatic flavor, as well as its potential health benefits, including improving digestion, boosting immunity, and reducing inflammation.\n
+3.Benefits:\n
+*Digestive aid: Oregano contains compounds that help stimulate digestion, reduce bloating, and alleviate symptoms of indigestion and gas.\n
+*Immune support: Its antimicrobial and antioxidant properties help strengthen the immune system, protect against infections, and reduce inflammation.\n
+*Anti-inflammatory: Oregano contains carvacrol and rosmarinic acid, which have anti-inflammatory properties that help reduce inflammation, relieve pain, and promote healing.\n
+4.Best for: Digestive health, immune support, anti-inflammatory.\n
+</string>
+
+    <string name="Chives">
+1.Procedure/Recipe:\n
+*Chive Mashed Potatoes - mix chopped chives with mashed potatoes, butter, and cream, serve as a side dish.\n
+*Chive Omelette - sprinkle chopped chives on beaten eggs, cook until set, fold in half, and serve for a flavorful breakfast.\n
+*Chive Cream Cheese Dip - mix chopped chives with cream cheese, sour cream, garlic, and lemon juice, serve with crackers or vegetables.\n
+2.Importance:\n
+Chives are valued for their mild onion flavor and delicate texture, as well as their potential health benefits, including improving digestion, boosting immunity, and promoting bone health.\n
+3.Benefits:\n
+*Digestive aid: Chives contain fiber and prebiotics that help stimulate digestion, reduce bloating, and support gut health.\n
+*Immune support: They are rich in vitamins A and C, which help strengthen the immune system, protect against infections, and reduce inflammation.\n
+*Bone health: Chives contain vitamin K, which is essential for bone metabolism and helps maintain bone density and strength.\n
+4.Best for: Digestive health, immune support, bone health.\n
+</string>
+
+    <string name="Bay_Leaves">
+1.Procedure/Recipe:\n
+*Bay Leaf Rice - cook rice with bay leaves, garlic, and onions, for a fragrant and flavorful side dish.\n
+*Bay Leaf Chicken Curry - simmer chicken with bay leaves, tomatoes, onions, and spices, until tender and aromatic.\n
+*Bay Leaf Infused Milk - steep bay leaves in warm milk with honey and cinnamon, drink for relaxation and sleep support.\n
+2.Importance:\n
+Bay leaves are valued for their subtle and aromatic flavor, as well as their potential health benefits, including improving digestion, reducing inflammation, and promoting relaxation.\n
+3.Benefits:\n
+*Digestive aid: Bay leaves contain enzymes that help stimulate digestion, reduce bloating, and alleviate symptoms of indigestion and gas.\n
+*Anti-inflammatory: They contain compounds like eugenol and cineole, which have anti-inflammatory properties that help reduce inflammation, relieve pain, and promote healing.\n
+*Relaxation: Bay leaves have a calming effect on the nervous system, helping reduce stress, anxiety, and promoting better sleep quality.\n
+4.Best for: Digestive health, anti-inflammatory, relaxation.\n
+</string>
+
+    <string name="Amla_for_food">
+1.Procedure/Recipe:\n
+*Amla Juice - blend amla with water and honey, drink for Vitamin C boost.\n
+*Amla Pickle - chop amla into small pieces and marinate with salt, turmeric, and mustard oil.\n
+*Amla Chutney - grind amla with green chilies, coriander, and salt, use as a condiment.\n
+2.Importance:\n
+Amla is rich in Vitamin C and antioxidants, making it beneficial for boosting immunity, improving digestion, and promoting skin health.\n
+3.Benefits:\n
+*Immunity booster: Amla strengthens the immune system, protecting the body against infections and diseases.\n
+*Digestive aid: It aids in digestion, relieves constipation, and improves gut health.\n
+4.Best for: Boosting immunity, improving digestion.\n
+</string>
+
+    <string name="Turmeric_for_food">
+1.Procedure/Recipe:\n
+*Turmeric Latte - mix turmeric powder with warm milk and honey, drink for immunity.\n
+*Turmeric Rice - cook rice with turmeric powder, cumin seeds, and vegetables for a colorful dish.\n
+*Turmeric Smoothie - blend turmeric with banana, pineapple, and coconut milk for a nutritious drink.\n
+2.Importance:\n
+Turmeric contains curcumin, a compound with potent anti-inflammatory and antioxidant properties, making it beneficial for overall health and well-being.\n
+3.Benefits:\n
+*Anti-inflammatory: Turmeric helps reduce inflammation in the body, alleviating symptoms of arthritis and other inflammatory conditions.\n
+*Antioxidant: It contains polyphenols, which have antioxidant properties that protect cells from damage caused by free radicals.\n
+4.Best for: Fighting inflammation, boosting immunity.\n
+</string>
+
+    <string name="Ginger_for_food">
+1.Procedure/Recipe:\n
+*Ginger Tea - steep ginger slices in hot water with lemon and honey, drink for digestion.\n
+*Ginger Stir-fry - sauté ginger with vegetables and soy sauce for a flavorful dish.\n
+*Ginger Lemonade - blend ginger with lemon juice, water, and honey, serve chilled for a refreshing drink.\n
+2.Importance:\n
+Ginger is known for its digestive properties and ability to relieve nausea, making it a popular remedy for gastrointestinal issues.\n
+3.Benefits:\n
+*Digestive aid: Ginger stimulates digestion, reduces bloating, and relieves indigestion and gas.\n
+*Nausea relief: It helps alleviate nausea and vomiting, especially during pregnancy or motion sickness.\n
+4.Best for: Digestive health, nausea relief.\n
+</string>
+
+    <string name="Cinnamon_for_food">
+1.Procedure/Recipe:\n
+*Cinnamon Oatmeal - sprinkle cinnamon on oatmeal with honey and fruits, eat for blood sugar control.\n
+*Cinnamon Apple Smoothie - blend cinnamon with apple, yogurt, and oats for a delicious breakfast drink.\n
+*Cinnamon Roasted Vegetables - toss vegetables with cinnamon, olive oil, and salt, roast until caramelized.\n
+2.Importance:\n
+Cinnamon is prized for its sweet and warm flavor and is known to have antioxidant and anti-inflammatory properties.\n
+3.Benefits:\n
+*Blood sugar control: Cinnamon helps regulate blood sugar levels, making it beneficial for people with diabetes.\n
+*Antioxidant: It contains polyphenols, which have antioxidant properties that protect cells from damage caused by free radicals.\n
+4.Best for: Blood sugar control, antioxidant support.\n
+</string>
+
+    <string name="Clove_for_food">
+1.Procedure/Recipe:\n
+*Clove-Infused Water - boil cloves in water, cool, drink for oral health.\n
+*Clove Rice - cook rice with cloves, cardamom, and cinnamon for a fragrant side dish.\n
+*Clove Tea - steep cloves in hot water with ginger and honey, drink for cold relief.\n
+2.Importance:\n
+Clove is known for its aromatic flavor and is often used in cooking as well as in traditional medicine for its medicinal properties.\n
+3.Benefits:\n
+*Oral health: Clove has antimicrobial properties that help combat bad breath, toothache, and gum disease.\n
+*Respiratory health: It can help relieve respiratory issues like cough, cold, and asthma due to its expectorant properties.\n
+4.Best for: Oral health, respiratory relief.\n
+</string>
+
+
+    <string name="Peppermint_for_food">
+1.Procedure/Recipe:\n
+*Peppermint Tea - steep peppermint leaves in hot water, drink for digestion and relaxation.\n
+*Peppermint Oil Massage - dilute peppermint oil with a carrier oil, massage onto temples and neck for headache relief.\n
+*Peppermint Infused Water - add fresh peppermint leaves to water, refrigerate, and drink for a refreshing beverage.\n
+2.Importance:\n
+Peppermint is prized for its cooling and calming properties, making it useful for soothing digestive issues, headaches, and promoting relaxation.\n
+3.Benefits:\n
+*Digestive aid: Peppermint helps relieve indigestion, bloating,\n
+*Stomach cramps by relaxing the muscles of the digestive tract.\n
+*Headache relief: Its menthol content provides a cooling sensation that can alleviate tension headaches and migraines.\n
+4.Best for: Digestive health, headache relief.\n
+</string>
+
+    <string name="Lemongrass_for_food">
+1.Procedure/Recipe:\n
+*Lemongrass Tea - steep lemongrass in hot water, drink for digestion and relaxation.\n
+*Lemongrass Curry - cook lemongrass with coconut milk, vegetables, and spices, eat for flavor and digestion.\n
+*Lemongrass Bath Soak - add lemongrass essential oil to bathwater, soak for relaxation and stress relief.\n
+2.Importance:\n
+Lemongrass is prized for its citrusy flavor and aromatic properties, as well as its potential health benefits, including digestive support, relaxation, and stress relief.\n
+3.Benefits:\n
+*Digestive aid: Lemongrass contains compounds that help stimulate digestion, reduce bloating, and alleviate stomach cramps and indigestion.\n
+*Relaxation: Its calming aroma can help reduce stress, anxiety, and promote better sleep quality.\n
+4.Best for: Digestive health, relaxation.\n
+</string>
+
+    <string name="Fenugreek_for_food">
+1.Procedure/Recipe:\n
+*Fenugreek Tea - steep fenugreek seeds in hot water, drink for digestion and blood sugar control.\n
+*Fenugreek Sprouts Salad - sprout fenugreek seeds, toss with vegetables and lemon juice, eat for a nutritious salad.\n
+*Fenugreek Hair Mask - soak fenugreek seeds overnight, blend into a paste, apply to hair and scalp for hair growth and dandruff control.\n
+2.Importance:\n
+Fenugreek is known for its strong aroma and distinct flavor, as well as its potential health benefits, including improving digestion, regulating blood sugar levels, and promoting hair health.\n
+3.Benefits:\n
+*Digestive aid: Fenugreek contains soluble fiber that helps regulate digestion, alleviate constipation, and promote gut health.\n
+*Blood sugar control: Its compounds help improve insulin sensitivity and reduce blood sugar levels, making it beneficial for people with diabetes.\n
+*Hair health: Fenugreek seeds contain proteins and nicotinic acid, which can help strengthen hair, promote hair growth, and reduce dandruff.\n
+4.Best for: Digestive health, blood sugar control, hair health.\n
+</string>
+
+    <string name="Coriander">
+1.Procedure/Recipe:\n
+*Coriander Chutney - blend coriander leaves with green chilies, garlic, and lemon juice, use as a condiment or dip.\n
+*Coriander Rice - cook rice with coriander leaves, ginger, and cumin seeds for a flavorful side dish.\n
+*Coriander Soup - simmer coriander leaves with vegetables, vegetable broth, and spices, blend until smooth for a comforting soup.\n
+2.Importance:\n
+Coriander, also known as cilantro, is valued for its fresh and citrusy flavor, as well as its potential health benefits, including improving digestion, promoting heart health, and supporting detoxification.\n
+3.Benefits:\n
+*Digestive aid: Coriander contains compounds that help stimulate digestive enzymes, alleviate bloating, and reduce gas and indigestion.\n
+*Heart health: It can help lower cholesterol levels, reduce blood pressure, and protect against heart disease due to its antioxidant and anti-inflammatory properties.\n
+*Detoxification: Coriander helps remove heavy metals and toxins from the body, supporting liver health and detoxification processes.\n
+4.Best for: Digestive health, heart health, detoxification.\n
+</string>
+
+    <string name="Mint_for_food">
+1.Procedure/Recipe:\n
+*Mint Lemonade - blend mint leaves with lemon juice, water, and honey, serve chilled for a refreshing drink.\n
+*Mint Yogurt Dip - mix mint leaves with yogurt, garlic, and cucumber, serve as a dip or condiment.\n
+*Mint Pesto - blend mint leaves with nuts, garlic, olive oil, and Parmesan cheese, use as a pasta sauce or spread.\n
+2.Importance:\n
+Mint is prized for its cooling and refreshing flavor, as well as its potential health benefits, including improving digestion, reducing inflammation, and relieving respiratory symptoms.\n
+3.Benefits:\n
+*Digestive aid: Mint helps relax the muscles of the digestive tract, alleviate indigestion, and reduce symptoms of irritable bowel syndrome (IBS).\n
+*Respiratory relief: Its menthol content provides a cooling sensation that can help clear nasal congestion, reduce cough, and soothe sore throat.\n
+*Anti-inflammatory: Mint contains antioxidants and anti-inflammatory compounds that help reduce inflammation and oxidative stress in the body.\n
+4.Best for: Digestive health, respiratory relief, anti-inflammatory.\n
+</string>
+
+    <string name="Curry_Leaves">
+1.Procedure/Recipe:\n
+*Curry Leaves Rice - temper cooked rice with curry leaves, mustard seeds, and lentils for a fragrant and flavorful dish.\n
+*Curry Leaves Chutney - blend curry leaves with coconut, green chilies, and tamarind, use as a condiment or dip.\n
+*Curry Leaves Soup - simmer curry leaves with lentils, vegetables, and spices, blend until smooth for a comforting soup.\n
+2.Importance:\n
+Curry leaves are valued for their aromatic flavor and potential health benefits, including improving digestion, reducing cholesterol levels, and promoting hair health.\n
+3.Benefits:\n
+*Digestive aid: Curry leaves contain carbazole alkaloids that help stimulate digestive enzymes, improve digestion, and alleviate gastrointestinal issues.\n
+*Cholesterol reduction: They can help lower cholesterol levels, reduce oxidative stress, and prevent the buildup of plaque in the arteries.\n
+*Hair health: Curry leaves contain vitamins and minerals that help strengthen hair follicles, reduce hair fall, and promote hair growth.\n
+4.Best for: Digestive health, cholesterol reduction, hair health.\n
+</string>
+
+    <string name="Basil_for_food">
+1.Procedure/Recipe:\n
+*Basil Pesto - blend basil leaves with pine nuts, garlic, Parmesan cheese, and olive oil, use as a pasta sauce or spread.\n
+*Basil Tomato Salad - toss basil leaves with cherry tomatoes, mozzarella cheese, olive oil, and balsamic vinegar for a refreshing salad.\n
+*Basil Lemonade - blend basil leaves with lemon juice, water, and honey, serve chilled for a revitalizing drink.\n
+2.Importance:\n
+Basil, also known as tulsi, is revered for its sweet and aromatic flavor, as well as its potential health benefits, including improving digestion, reducing stress, and boosting immunity.\n
+3.Benefits:\n
+*Digestive aid: Basil helps stimulate digestion, relieve gas and bloating, and soothe gastrointestinal discomfort.\n
+*Stress reduction: Its adaptogenic properties help reduce stress, anxiety, and fatigue, promoting overall well-being and mental clarity.\n
+*Immune support: Basil contains antioxidants and essential oils that help strengthen the immune system, protect against infections, and reduce inflammation.\n
+4.Best for: Digestive health, stress reduction, immune support.\n
+</string>
+
+    <string name="Parsley">
+1.Procedure/Recipe:\n
+*Parsley Salad - chop parsley leaves with cucumber, onion, and bell peppers, toss with lemon juice and olive oil for a refreshing salad.\n
+*Parsley Pesto - blend parsley leaves with almonds, garlic, Parmesan cheese, and olive oil, use as a pasta sauce or spread.\n
+*Parsley Soup - simmer parsley leaves with potatoes, leeks, vegetable broth, and cream, blend until smooth for a creamy soup.\n
+2.Importance:\n
+Parsley is valued for its fresh and vibrant flavor, as well as its potential health benefits, including improving digestion, supporting kidney health, and promoting bone strength.\n
+3.Benefits:\n
+*Digestive aid: Parsley contains enzymes that help stimulate digestion, alleviate bloating, and reduce gas and indigestion.\n
+*Kidney support: Its diuretic properties help increase urine production, flush out toxins, and prevent kidney stones and urinary tract infections.\n
+*Bone health: Parsley is rich in vitamin K, which plays a crucial role in bone metabolism and helps maintain bone density and strength.\n
+4.Best for: Digestive health, kidney support, bone health.\n
+</string>
+
+    <string name="Thyme">
+1.Procedure/Recipe:\n
+*Thyme Roasted Potatoes - toss potatoes with thyme, olive oil, and salt, roast until crispy and golden brown.\n
+*Thyme Lemon Chicken - marinate chicken with thyme, lemon juice, garlic, and olive oil, grill or bake until cooked through.\n
+*Thyme Honey
+
+ *Glazed Carrots - roast carrots with thyme, honey, and butter until tender and caramelized.\n
+2.Importance:\n
+Thyme is prized for its earthy and aromatic flavor, as well as its potential health benefits, including improving respiratory health, boosting immunity, and promoting skin health.\n
+3.Benefits:\n
+*Respiratory health: Thyme contains compounds that help relax the muscles of the respiratory tract, reduce cough, and relieve congestion.\n
+*Immune support: Its antioxidant and antimicrobial properties help strengthen the immune system, protect against infections, and reduce inflammation.\n
+*Skin health: Thyme is rich in vitamins and minerals that help promote skin health, prevent acne, and reduce signs of aging.\n
+4.Best for: Respiratory health, immune support, skin health.\n
+</string>
+
+
+</resources>
